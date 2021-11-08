@@ -24,7 +24,7 @@ with open(list_input, 'r') as listd:
         for url in js:
             j = url['common_name']
             save = open("urls.txt","a")
-            save.write(str(j).replace("*", "")+"\n")
+            save.write(str(j)+"\n")
             save.close()
             print("\033[31mDone grabbing check urls.txt\033[0m")
 
