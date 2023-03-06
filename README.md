@@ -12,4 +12,4 @@
 
 
 
-Then we move to main applicaion code which is in `python3 finder.py <DOMAIN>`
+to run the application we need this command `python3 finder.py <DOMAIN>`
