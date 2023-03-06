@@ -10,6 +10,11 @@
 
 
 
+#Requirements
+
+rich libary
+
+`pip install rich`
 
 
 to run the application we need this command `python3 finder.py <DOMAIN>`
