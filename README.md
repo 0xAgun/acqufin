@@ -18,3 +18,5 @@ rich libary
 
 
 to run the application we need this command `python3 finder.py <DOMAIN>`
+
+check the results in urls.txt file
